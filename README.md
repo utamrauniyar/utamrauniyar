@@ -1,9 +1,8 @@
 <div class = 'new' style='margin-left:500px;'>
-  ### Hi From Utam Rauniyar 👋
+   Hi From Utam Rauniyar 👋
 
 
 
-Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning python,data science
