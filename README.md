@@ -1,4 +1,4 @@
-<div class = 'new' style='text-align:center'>
+<div class = 'new' style='margin-left:200px;'>
   ### Hi From Utam Rauniyar 👋
 
 
